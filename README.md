@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 **I'm Achyut**
 
-🌱 **▸** I'm currently learning **Flutter** and **DSA in java**. \
-📚 **▸** I am a second year B.tech CSE student. \
+🌱 **▸** I'm currently learning **Kotlin**, **Go** and **DSA in java** currently. \
+📚 **▸** I am a third year B.tech CSE student. \
 📫 **▸** I'm exploring and trying to find my interests in the programming world.
 
 👾 **▸ What I do in my free time:**
