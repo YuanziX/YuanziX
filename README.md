@@ -1,23 +1,7 @@
-<!--
-**YuanziX/YuanziX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About Me
 
 **I'm Achyut**
 
-🌱 **▸** I'm currently learning **Kotlin**, **Go** and **DSA in java** currently. \
 📚 **▸** I am a third year B.tech CSE student. \
 📫 **▸** I'm exploring and trying to find my interests in the programming world.
 
@@ -41,11 +25,22 @@ Here are some ideas to get you started:
 
 ### What I know
 
+### What I know
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-%236DB33F.svg?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
 
 ##
