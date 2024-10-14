@@ -78,7 +78,7 @@ fn main() {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuanziX&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanziX&layout=compact&theme=tokyonight&exclude_repo=android_kernel_xiaomi_mt6768,android_kernel_xiaomi_rosemary,kernel_xiaomi_mt6768)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanziX&layout=compact&theme=tokyonight&exclude_repo=android_kernel_xiaomi_phoenix,android_kernel_xiaomi_phoenix,device_xiaomi_phoenix,kranul_phoenix,kernel_xiaomi_phoenix,pa_device_xiaomi_phoenix,android_kernel_xiaomi_sm6150,kernel_xiaomi_sm6150,magisk,frameworks_base,hardware_qcom-caf_sm8150_display,hardware_qcom-caf_sm8150_audio)
 
 </div>
 
