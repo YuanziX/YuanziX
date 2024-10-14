@@ -1,52 +1,121 @@
-## About Me
+# 👋 Hi, I'm Achyut
 
-**I'm Achyut**
+> Third-year B.Tech CSE student exploring the vast universe of programming 🚀
 
-📚 **▸** I am a third year B.tech CSE student. \
-📫 **▸** I'm exploring and trying to find my interests in the programming world.
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+App+Developer;Always+Learning+New+Things;Tech+Enthusiast)](https://git.io/typing-svg)
+  
+</div>
 
-👾 **▸ What I do in my free time:**
+## 🎯 About Me
 
-    • 📙 Read WNs
-    • 🎮 Play Games
-    • 🎶 Listen to Music
-    • 🖌️ Learn new stuff
-    • 🎲 Mess around with code I've already written
+```rust
+struct Achyut {
+    role: String,
+    languages: Vec<String>,
+    current_focus: String,
+    hobbies: Vec<String>,
+}
 
-##
+impl Achyut {
+    fn new() -> Self {
+        Achyut {
+            role: String::from("CSE Student"),
+            languages: vec![
+                "Python".to_string(),
+                "Go".to_string(),
+                "Rust".to_string(),
+                "Dart".to_string(),
+                "Java".to_string(),
+                "Kotlin".to_string()
+            ],
+            current_focus: String::from("Exploring Backend Development"),
+            hobbies: vec![
+                "Reading Web Novels".to_string(),
+                "Gaming".to_string(),
+                "Coding".to_string(),
+            ],
+        }
+    }
 
-### <a href="https://emoji.gg/emoji/3716-blurple-github"><img src="https://cdn3.emoji.gg/emojis/3716-blurple-github.png" width="20px" height="20px" alt="BlurpleGithub-emoji"></a>&#160; My Stats:
+    fn say_hi(&self) {
+        println!("Thanks for dropping by! Let's connect and build something amazing together!");
+    }
+}
 
-![Achyut's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanziX&hide=contribs,issues&show_icons=true&theme=omni)
+fn main() {
+    let me = Achyut::new();
+    me.say_hi();
+}
+```
 
-![Achyut's stats](https://github-readme-streak-stats.herokuapp.com/?user=YuanziX&theme=omni)
+## 🛠 Tech Stack
 
-##
+### Languages
 
-### What I know
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,rust,dart,java,kotlin,c" />
+</p>
 
-### What I know
+### Frameworks & Technologies
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;&nbsp;
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;&nbsp;
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;&nbsp;
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;
-![gRPC](https://img.shields.io/badge/gRPC-%236DB33F.svg?style=for-the-badge&logo=grpc&logoColor=white)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,postgres,mysql,bash,linux,git" />
+</p>
 
-##
+### Development Tools
 
-### IDEs that I use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,docker" />
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;&nbsp;
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuanziX&hide=contribs,issues&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuanziX&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanziX&layout=compact&theme=tokyonight&exclude_repo=android_kernel_xiaomi_mt6768,android_kernel_xiaomi_rosemary,kernel_xiaomi_mt6768)
+
+</div>
+
+## 🎯 Current Focus
+
+- 🌱 Learning advanced backend development
+- 🔭 Working on personal projects
+- 👯 Looking to collaborate on open-source projects
+- 🎮 Building small games in free time
+
+## 🎨 What I Do For Fun
+
+- 📚 Read Web Novels
+- 🎮 Gaming
+- 🎵 Listen to Music
+- 💻 Code for Fun
+- 🌟 Learn New Technologies
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/achyut-badyal-06402a275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/yuanzix">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:achubadyal4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YuanziX&color=blueviolet&style=flat-square">
+
+![Snake animation](https://github.com/YuanziX/YuanziX/blob/output/github-contribution-grid-snake.svg)
+
+</div>
