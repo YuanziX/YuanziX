@@ -87,7 +87,6 @@ fn main() {
 - 🌱 Learning advanced backend development
 - 🔭 Working on personal projects
 - 👯 Looking to collaborate on open-source projects
-- 🎮 Building small games in free time
 
 ## 🎨 What I Do For Fun
 
@@ -102,13 +101,10 @@ fn main() {
 <p align="left">
   <a href="https://www.linkedin.com/in/achyut-badyal-06402a275/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/yuanzix">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="mailto:achubadyal4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://t.me/yuanzix">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -116,6 +112,10 @@ fn main() {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YuanziX&color=blueviolet&style=flat-square">
 
-![Snake animation](https://github.com/YuanziX/YuanziX/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
