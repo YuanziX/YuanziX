@@ -2,12 +2,6 @@
 
 > A fourth year B.Tech student. I like tinkering with new software and automating random problems I face in life.
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full+Stack+App+Developer;Always+Learning+New+Things;Tech+Enthusiast)](https://git.io/typing-svg)
-  
-</div>
-
 ## 🎯 About Me
 
 ```go
