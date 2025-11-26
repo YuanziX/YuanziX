@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Achyut
 
-> Third-year B.Tech CSE student exploring the vast universe of programming 🚀
+> A fourth year B.Tech student. I like tinkering with new software and automating random problems I face in life.
 
 <div align="center">
   
@@ -10,43 +10,39 @@
 
 ## 🎯 About Me
 
-```rust
-struct Achyut {
-    role: String,
-    languages: Vec<String>,
-    current_focus: String,
-    hobbies: Vec<String>,
+```go
+type TechStack struct {
+  type string
+  desc string
 }
 
-impl Achyut {
-    fn new() -> Self {
-        Achyut {
-            role: String::from("CSE Student"),
-            languages: vec![
-                "Python".to_string(),
-                "Go".to_string(),
-                "Rust".to_string(),
-                "Dart".to_string(),
-                "Java".to_string(),
-                "Kotlin".to_string()
-            ],
-            current_focus: String::from("Exploring Backend Development"),
-            hobbies: vec![
-                "Reading Web Novels".to_string(),
-                "Gaming".to_string(),
-                "Coding".to_string(),
-            ],
-        }
+type AboutMe struct{
+  about string
+  techstacks []TechStack
+}{
+  about: "I have worked with a variety of techstacks, learning new things as I come across new interests in tech"
+  techstacks: []TechStack{
+    TechStack{
+      type: "Backend",
+      desc: "Node (express), golang, python (fastapi)",
+    },
+    TechStack{
+      type: "App Dev",
+      desc: "Flutter (dart), JetPack Compose (Kotlin)",
+    },
+    TechStack{
+      type: "DevOps",
+      desc: "Github Actions (CI/CD), Docker"
+    },
+    TechStack{
+      type: "Frontend",
+      desc: "React",
+    },
+    TechStack{
+      type: "Programming Languages",
+      desc: "Java, Javascript, Python, Golang, Dart",
     }
-
-    fn say_hi(&self) {
-        println!("Thanks for dropping by! Let's connect and build something amazing together!");
-    }
-}
-
-fn main() {
-    let me = Achyut::new();
-    me.say_hi();
+  }
 }
 ```
 
@@ -55,7 +51,7 @@ fn main() {
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,dart,java,kotlin,c" />
+  <img src="https://skillicons.dev/icons?i=python,go,dart,java,kotlin,c" />
 </p>
 
 ### Frameworks & Technologies
@@ -84,13 +80,13 @@ fn main() {
 
 ## 🎯 Current Focus
 
-- 🌱 Learning advanced backend development
 - 🔭 Working on personal projects
 - 👯 Looking to collaborate on open-source projects
 
 ## 🎨 What I Do For Fun
 
 - 📚 Read Web Novels
+- 🏋🏻‍♂️ Workout
 - 🎮 Gaming
 - 🎵 Listen to Music
 - 💻 Code for Fun
@@ -111,11 +107,4 @@ fn main() {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YuanziX&color=blueviolet&style=flat-square">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuanziX/YuanziX/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
